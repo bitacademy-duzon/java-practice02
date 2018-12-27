@@ -1,2 +1,2 @@
 # java-practice02
-# Controller를 실행시켜 주십시오.
+사용법 : Controller를 실행시켜 주십시오.
